@@ -1,2 +1,0 @@
-package basico.operadores.exercicios
-
