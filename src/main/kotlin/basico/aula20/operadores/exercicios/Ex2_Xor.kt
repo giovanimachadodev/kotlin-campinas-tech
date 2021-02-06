@@ -1,4 +1,4 @@
-package basico.operadores.exercicios
+package basico.aula20.operadores.exercicios
 
 fun main(){
     val a: Boolean = false

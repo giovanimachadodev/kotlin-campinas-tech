@@ -1,4 +1,4 @@
-package basico.operadores
+package basico.aula20.operadores
 
 import java.util.*
 

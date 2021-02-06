@@ -1,4 +1,4 @@
-package basico.operadores
+package basico.aula20.operadores
 
 fun main(){
     var a: Int = 4

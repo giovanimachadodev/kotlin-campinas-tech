@@ -1,4 +1,4 @@
-package basico.lista_aula20
+package basico.aula20.lista_aula20
 
 fun main(){
     val chuva: Boolean = true
